@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		384A3EDA25059670007C35FE /* SS1.png in Resources */ = {isa = PBXBuildFile; fileRef = 384A3ED925059670007C35FE /* SS1.png */; };
+		384A3EDC250596A9007C35FE /* SS2.png in Resources */ = {isa = PBXBuildFile; fileRef = 384A3EDB250596A9007C35FE /* SS2.png */; };
 		AD7631D422FC5E7E00C6E71B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7631D322FC5E7E00C6E71B /* AppDelegate.swift */; };
 		AD7631D622FC5E7E00C6E71B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7631D522FC5E7E00C6E71B /* SceneDelegate.swift */; };
 		AD7631D822FC5E7E00C6E71B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7631D722FC5E7E00C6E71B /* ViewController.swift */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		384A3ED925059670007C35FE /* SS1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SS1.png; sourceTree = "<group>"; };
+		384A3EDB250596A9007C35FE /* SS2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SS2.png; sourceTree = "<group>"; };
 		AD7631D022FC5E7E00C6E71B /* Destini-iOS13.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Destini-iOS13.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD7631D322FC5E7E00C6E71B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AD7631D522FC5E7E00C6E71B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +53,8 @@
 				AD7631EE22FC656600C6E71B /* README.md */,
 				AD7631D222FC5E7E00C6E71B /* Destini-iOS13 */,
 				AD7631D122FC5E7E00C6E71B /* Products */,
+				384A3ED925059670007C35FE /* SS1.png */,
+				384A3EDB250596A9007C35FE /* SS2.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -159,7 +165,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD7631E022FC5E8300C6E71B /* LaunchScreen.storyboard in Resources */,
+				384A3EDA25059670007C35FE /* SS1.png in Resources */,
 				AD7631DD22FC5E8300C6E71B /* Assets.xcassets in Resources */,
+				384A3EDC250596A9007C35FE /* SS2.png in Resources */,
 				AD7631EF22FC656600C6E71B /* README.md in Resources */,
 				AD7631DB22FC5E7E00C6E71B /* Main.storyboard in Resources */,
 			);
